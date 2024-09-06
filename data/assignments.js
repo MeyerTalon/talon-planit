@@ -64,6 +64,13 @@ assignments = {
       "dueDate": "2024-09-06T23:59:00",
       "link": "https://www.gradescope.com/courses/845096/assignments/4879194/submissions/264106416",
       "submitted": true
+    },
+    {
+      "title": "Project 1A: LinkedListDeque",
+      "course": "CS 61B",
+      "dueDate": "2024-09-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
     }
   ],
   "CS 70": [
