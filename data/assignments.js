@@ -199,7 +199,7 @@ assignments = {
       "title": "Lab Checkoffs",
       "course": "EECS 16A",
       "dueDate": "2024-12-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/823368/assignments/4852652/submissions/264147796",
+      "link": "https://www.gradescope.com/courses/823368/assignments/4852652/submissions/267592687",
       "submitted": true
     },
     {
