@@ -225,8 +225,8 @@ assignments = {
       "title": "Homework 3",
       "course": "CS 70",
       "dueDate": "2024-09-21T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/4974890/submissions/270009349",
+      "submitted": true
     }
   ],
   "EECS 16A": [
