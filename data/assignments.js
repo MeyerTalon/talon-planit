@@ -262,8 +262,8 @@ assignments = {
       "title": "HW3",
       "course": "EECS 16A",
       "dueDate": "2024-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/823368",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823368/assignments/4962438/submissions/270076639",
+      "submitted": true
     },
     {
       "title": "Exam 1 Redo",
