@@ -53,8 +53,8 @@ assignments = {
       "title": "Homework 3",
       "course": "CS 61A",
       "dueDate": "2024-09-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5012008/submissions/270641904",
+      "submitted": true
     },
     {
       "title": "Lab 3",
@@ -247,6 +247,13 @@ assignments = {
       "course": "CS 70",
       "dueDate": "2024-09-26T19:30:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5021818/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework 4",
+      "course": "CS 70",
+      "dueDate": "2024-09-28T16:00:00",
+      "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
     }
   ],
