@@ -327,6 +327,13 @@ assignments = {
       "dueDate": "2024-09-29T23:59:00",
       "link": "https://www.gradescope.com/courses/823368/assignments/5014681/submissions/271862047",
       "submitted": true
+    },
+    {
+      "title": "HW5",
+      "course": "EECS 16A",
+      "dueDate": "2024-10-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/823368",
+      "submitted": false
     }
   ]
 };
