@@ -67,8 +67,8 @@ assignments = {
       "title": "Cats",
       "course": "CS 61A",
       "dueDate": "2024-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5043510/submissions/272519373",
+      "submitted": true
     },
     {
       "title": "Cats Checkpoint",
