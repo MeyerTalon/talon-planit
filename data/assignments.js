@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2024-10-02T23:59:00",
       "link": "https://www.gradescope.com/courses/843175/assignments/5072731/submissions/272956882",
       "submitted": true
+    },
+    {
+      "title": "Homework 4",
+      "course": "CS 61A",
+      "dueDate": "2024-10-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
