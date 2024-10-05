@@ -164,6 +164,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Project 2A: Ngrams",
+      "course": "CS 61B",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
       "title": "[UNGRADED] Project 1B: ArrayDeque Test Coverage",
       "course": "CS 61B",
       "dueDate": "2024-09-20T23:59:00",
@@ -316,8 +323,8 @@ assignments = {
       "title": "Homework 5",
       "course": "CS 70",
       "dueDate": "2024-10-05T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5074325/submissions/274726178",
+      "submitted": true
     }
   ],
   "EECS 16A": [
@@ -374,8 +381,8 @@ assignments = {
       "title": "HW5",
       "course": "EECS 16A",
       "dueDate": "2024-10-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/823368",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823368/assignments/5064910/submissions/274758092",
+      "submitted": true
     }
   ]
 };
