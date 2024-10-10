@@ -358,8 +358,8 @@ assignments = {
       "title": "Mini-Vitamin 6B",
       "course": "CS 70",
       "dueDate": "2024-10-10T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5119233/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5119233/submissions/276684718",
+      "submitted": true
     }
   ],
   "EECS 16A": [
