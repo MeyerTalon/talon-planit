@@ -269,13 +269,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Project 2B: Design Document",
-      "course": "CS 61B",
-      "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
-    },
-    {
       "title": "Lab 07",
       "course": "CS 61B",
       "dueDate": "2024-10-18T23:59:00",
@@ -295,6 +288,13 @@ assignments = {
       "dueDate": "2024-10-21T23:59:00",
       "link": "https://www.gradescope.com/courses/845096/assignments/5166359/submissions/280452425",
       "submitted": true
+    },
+    {
+      "title": "Project 2B: Design Document",
+      "course": "CS 61B",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
     }
   ],
   "CS 70": [
