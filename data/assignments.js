@@ -556,8 +556,8 @@ assignments = {
       "title": "HW8",
       "course": "EECS 16A",
       "dueDate": "2024-10-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/823368",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823368/assignments/5189076/submissions/282291416",
+      "submitted": true
     }
   ]
 };
