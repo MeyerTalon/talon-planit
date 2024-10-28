@@ -479,6 +479,20 @@ assignments = {
       "dueDate": "2024-10-26T16:00:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5199704/submissions/282439196",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 9A",
+      "course": "CS 70",
+      "dueDate": "2024-10-29T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5208804/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 9B",
+      "course": "CS 70",
+      "dueDate": "2024-10-31T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5208929/submissions/new",
+      "submitted": false
     }
   ],
   "EECS 16A": [
