@@ -593,6 +593,13 @@ assignments = {
       "dueDate": "2024-11-03T23:59:00",
       "link": "https://www.gradescope.com/courses/823368",
       "submitted": false
+    },
+    {
+      "title": "Exam 2 Redo",
+      "course": "EECS 16A",
+      "dueDate": "2024-11-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/823368",
+      "submitted": false
     }
   ]
 };
