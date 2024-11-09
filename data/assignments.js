@@ -328,8 +328,8 @@ assignments = {
       "title": "Project 2B: Design Document",
       "course": "CS 61B",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/5199523/submissions/287198268",
+      "submitted": true
     },
     {
       "title": "[UNGRADED] Lab 09",
