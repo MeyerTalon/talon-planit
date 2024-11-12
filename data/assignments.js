@@ -179,8 +179,8 @@ assignments = {
       "title": "Lab 10",
       "course": "CS 61A",
       "dueDate": "2024-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5308295/submissions/288279673",
+      "submitted": true
     }
   ],
   "CS 61B": [
