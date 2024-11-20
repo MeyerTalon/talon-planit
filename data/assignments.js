@@ -668,13 +668,6 @@ assignments = {
       "dueDate": "2024-11-23T16:00:00",
       "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
-    },
-    {
-      "title": "Mini-Vitamin 13A",
-      "course": "CS 70",
-      "dueDate": "2024-11-21T09:30:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
     }
   ],
   "EECS 16A": [
