@@ -221,8 +221,8 @@ assignments = {
       "title": "Homework 10",
       "course": "CS 61A",
       "dueDate": "2024-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5369452/submissions/293714596",
+      "submitted": true
     }
   ],
   "CS 61B": [
