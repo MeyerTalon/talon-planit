@@ -852,6 +852,13 @@ assignments = {
       "dueDate": "2024-12-04T23:59:00",
       "link": "https://www.gradescope.com/courses/823368/assignments/5371494/submissions/294414639",
       "submitted": true
+    },
+    {
+      "title": "Extra Course - Course Evaluations",
+      "course": "EECS 16A",
+      "dueDate": "2024-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/823368",
+      "submitted": false
     }
   ]
 };
