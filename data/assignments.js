@@ -857,8 +857,8 @@ assignments = {
       "title": "Extra Credit - Course Evaluations",
       "course": "EECS 16A",
       "dueDate": "2024-12-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/823368",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823368/assignments/5438542/submissions/296386248",
+      "submitted": true
     }
   ]
 };
