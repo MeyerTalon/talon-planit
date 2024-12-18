@@ -242,7 +242,7 @@ assignments = {
       "title": "Discussion Attendance",
       "course": "CS 61A",
       "dueDate": "2024-12-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175/assignments/5464283/submissions/298034068",
+      "link": "https://www.gradescope.com/courses/843175/assignments/5464283/submissions/298101476",
       "submitted": true
     }
   ],
