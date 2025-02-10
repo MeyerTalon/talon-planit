@@ -62,8 +62,8 @@ assignments = {
       "title": "Lab1 Result Sheet",
       "course": "EECS 16B ",
       "dueDate": "2025-02-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/963410",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/963410/assignments/5717758/submissions/306865461",
+      "submitted": true
     },
     {
       "title": "HW2",
