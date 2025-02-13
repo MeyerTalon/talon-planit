@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2025-02-18T17:00:00",
       "link": "https://www.gradescope.com/courses/963410",
       "submitted": false
+    },
+    {
+      "title": "HW1_self_grading",
+      "course": "EECS 16B ",
+      "dueDate": "2025-02-18T17:00:00",
+      "link": "https://www.gradescope.com/courses/963410",
+      "submitted": false
     }
   ]
 };
