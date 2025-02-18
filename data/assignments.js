@@ -90,8 +90,8 @@ assignments = {
       "title": "HW1_selfgrading",
       "course": "EECS 16B ",
       "dueDate": "2025-02-21T17:00:00",
-      "link": "https://www.gradescope.com/courses/963410/assignments/5781654/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/963410/assignments/5781654/submissions/309620994",
+      "submitted": true
     },
     {
       "title": "HW3",
@@ -111,8 +111,8 @@ assignments = {
       "title": "HW2_selfgrading",
       "course": "EECS 16B ",
       "dueDate": "2025-02-23T17:00:00",
-      "link": "https://www.gradescope.com/courses/963410/assignments/5807465/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/963410/assignments/5807465/submissions/309627966",
+      "submitted": true
     }
   ]
 };
