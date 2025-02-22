@@ -97,8 +97,8 @@ assignments = {
       "title": "HW3",
       "course": "EECS 16B ",
       "dueDate": "2025-02-21T17:00:00",
-      "link": "https://www.gradescope.com/courses/963410",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/963410/assignments/5794895/submissions/310958164",
+      "submitted": true
     },
     {
       "title": "Lab2 Prelab",
