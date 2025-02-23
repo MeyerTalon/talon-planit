@@ -104,8 +104,8 @@ assignments = {
       "title": "Lab2 Prelab",
       "course": "EECS 16B ",
       "dueDate": "2025-02-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/963410",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/963410/assignments/5795009/submissions/311180979",
+      "submitted": true
     },
     {
       "title": "HW2_selfgrading",
