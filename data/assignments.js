@@ -132,8 +132,8 @@ assignments = {
       "title": "HW4",
       "course": "EECS 16B ",
       "dueDate": "2025-02-28T17:00:00",
-      "link": "https://www.gradescope.com/courses/963410",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/963410/assignments/5834256/submissions/313383869",
+      "submitted": true
     },
     {
       "title": "HW3_selfgrading",
