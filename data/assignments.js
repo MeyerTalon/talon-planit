@@ -155,6 +155,13 @@ assignments = {
       "dueDate": "2025-03-09T23:59:00",
       "link": "https://www.gradescope.com/courses/963410/assignments/5883659/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "HW5",
+      "course": "EECS 16B ",
+      "dueDate": "2025-03-14T17:00:00",
+      "link": "https://www.gradescope.com/courses/963410",
+      "submitted": false
     }
   ]
 };
