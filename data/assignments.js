@@ -46,8 +46,8 @@ assignments = {
       "title": "HW4 Write-Up",
       "course": "CS 189/289A",
       "dueDate": "2025-03-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/949051",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949051/assignments/5576302/submissions/316750461",
+      "submitted": true
     },
     {
       "title": "HW1 Write-Up",
