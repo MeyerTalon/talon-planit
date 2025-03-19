@@ -180,7 +180,7 @@ assignments = {
     {
       "title": "HW6",
       "course": "EECS 16B ",
-      "dueDate": "2025-03-21T17:00:00",
+      "dueDate": "2025-03-28T17:00:00",
       "link": "https://www.gradescope.com/courses/963410",
       "submitted": false
     },
