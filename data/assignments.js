@@ -45,7 +45,7 @@ assignments = {
     {
       "title": "HW5 Code",
       "course": "CS 189/289A",
-      "dueDate": "2025-04-02T23:59:00",
+      "dueDate": "2025-04-03T23:59:00",
       "link": "https://www.gradescope.com/courses/949051/assignments/5576301/submissions/322065284",
       "submitted": true
     },
@@ -73,7 +73,7 @@ assignments = {
     {
       "title": "HW5 Write-Up",
       "course": "CS 189/289A",
-      "dueDate": "2025-04-02T23:59:00",
+      "dueDate": "2025-04-03T23:59:00",
       "link": "https://www.gradescope.com/courses/949051/assignments/5576305/submissions/322075273",
       "submitted": true
     },
