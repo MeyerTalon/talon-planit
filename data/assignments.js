@@ -253,6 +253,13 @@ assignments = {
       "dueDate": "2025-04-18T23:59:00",
       "link": "https://www.gradescope.com/courses/963410",
       "submitted": false
+    },
+    {
+      "title": "Lab4 Results Sheet",
+      "course": "EECS 16B ",
+      "dueDate": "2025-04-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/963410",
+      "submitted": false
     }
   ]
 };
