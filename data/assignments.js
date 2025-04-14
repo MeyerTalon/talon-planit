@@ -236,7 +236,7 @@ assignments = {
     {
       "title": "Lab4 Prelab",
       "course": "EECS 16B ",
-      "dueDate": "2025-04-12T23:59:00",
+      "dueDate": "2025-04-13T23:59:00",
       "link": "https://www.gradescope.com/courses/963410/assignments/6053489/submissions/324882893",
       "submitted": true
     },
